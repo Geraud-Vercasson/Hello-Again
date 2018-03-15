@@ -2,6 +2,7 @@
 
 Needs maven to rule!
 
+    mvn compile
     mvn install
 
 then launch
